@@ -3,6 +3,7 @@
 가계부 앱입니다.
 ## 시연 영상
 
+https://youtu.be/5gHKr1R_s6Q
 
 ## 기능 목록
 
