@@ -8,7 +8,7 @@ class IncomeCategorySelectionViewController: UIViewController, UITableViewDataSo
 
     weak var delegate: IncomeCategorySelectionViewControllerDelegate?
 
-    private let categories = ["월급", "투자","용돈", "이자" ,"Other Income"]
+    private let categories = ["월급", "투자","용돈", "이자" ,"그 외 수입"]
     private let tableView = UITableView()
 
     override func viewDidLoad() {

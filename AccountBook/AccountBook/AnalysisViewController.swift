@@ -189,6 +189,10 @@ class AnalysisViewController: UIViewController, UITableViewDataSource, UITableVi
         
         present(alert, animated: true, completion: nil)
     }
+    func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
+        cell.accessoryType = .none
+    }
+
 
     // UITableViewDataSource 메서드
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {

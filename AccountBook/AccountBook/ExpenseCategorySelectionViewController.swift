@@ -8,7 +8,7 @@ class ExpenseCategorySelectionViewController: UIViewController, UITableViewDataS
 
     weak var delegate: ExpenseCategorySelectionViewControllerDelegate?
 
-    private let categories = ["음식", "여행", "쇼핑", "운동", "여가","교통비","뷰티","병원","핸드폰","적금", "그 외"]
+    private let categories = ["음식", "여행", "쇼핑", "운동", "여가","교통비","뷰티","병원","핸드폰","적금", "그 외 지출"]
     private let tableView = UITableView()
 
     override func viewDidLoad() {

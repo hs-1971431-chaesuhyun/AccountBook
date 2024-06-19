@@ -229,6 +229,7 @@ extension MainViewController: UICollectionViewDataSource, UICollectionViewDelega
 
         return cell
     }
+    
 
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         if let selectedIndexPath = selectedIndexPath, let previousSelectedCell = collectionView.cellForItem(at: selectedIndexPath) {
@@ -287,7 +288,9 @@ extension MainViewController {
         let dailyExpenses = expenses.filter { Calendar.current.startOfDay(for: $0.date!) == startOfDay }
         let expense = dailyExpenses[indexPath.row]
 
-        cell.textLabel?.text = "\(expense.category ?? ""): \(expense.amount)"
+        // 소수점 없애고 원 단위로 표기
+        let formattedAmount = "\(Int(expense.amount))원"
+        cell.textLabel?.text = "\(expense.category ?? ""): \(formattedAmount)"
         cell.textLabel?.textColor = expense.isIncome ? .green : .red
 
         return cell
@@ -326,6 +329,7 @@ extension MainViewController {
         cell.accessoryType = .detailDisclosureButton
     }
 }
+
 
 extension UIView {
     func addBorder(edges: UIRectEdge, color: UIColor, thickness: CGFloat) {
