@@ -15,8 +15,7 @@
 
 ## 분석화면
 
-![](https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/ad4767b6-f989-4e02-8147-185459c0ecc8){width=50%}
-
+![](https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/ad4767b6-f989-4e02-8147-185459c0ecc8)
 
 ## 사용 방법
 
