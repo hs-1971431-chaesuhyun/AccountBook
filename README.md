@@ -10,7 +10,7 @@
 
 ## 메인화면
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 21 57 57](https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/c0314c88-0255-427d-b702-cdb0da5c06c2){width=50%}
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 21 57 57](https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/c0314c88-0255-427d-b702-cdb0da5c06c2){width=10%}
 
 ## 분석화면
 
