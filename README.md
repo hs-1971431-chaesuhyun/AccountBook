@@ -10,14 +10,12 @@
 
 ## 메인화면
 
-## 메인화면
-
-![](https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/c0314c88-0255-427d-b702-cdb0da5c06c2){width=50%}
+<img src="https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/c0314c88-0255-427d-b702-cdb0da5c06c2" style="max-width:100%;">
 
 
 ## 분석화면
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 21 58 29](https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/ad4767b6-f989-4e02-8147-185459c0ecc8){width=50%}
+![](https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/ad4767b6-f989-4e02-8147-185459c0ecc8){width=50%}
 
 
 ## 사용 방법
