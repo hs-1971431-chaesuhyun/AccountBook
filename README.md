@@ -8,11 +8,14 @@
 - 각 날짜별 수입 및 지출 기록
 - 수정 및 삭제 기능 제공
 
-## 설치 방법
+## 메인화면
 
-1. 프로젝트를 클론합니다.
-2. Xcode에서 프로젝트 파일을 엽니다.
-3. Simulator에서 앱을 실행합니다.
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 21 57 57](https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/c0314c88-0255-427d-b702-cdb0da5c06c2)
+
+## 분석화면
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 21 58 29](https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/ad4767b6-f989-4e02-8147-185459c0ecc8)
+
 
 ## 사용 방법
 
