@@ -10,7 +10,7 @@
 
 ## 메인화면
 
-<img src="https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/c0314c88-0255-427d-b702-cdb0da5c06c2" style="max-width:100%;">
+<img src="https://github.com/hs-1971431-chaesuhyun/AccountBook/assets/63581424/c0314c88-0255-427d-b702-cdb0da5c06c2" style="max-width:50%;">
 
 
 ## 분석화면
